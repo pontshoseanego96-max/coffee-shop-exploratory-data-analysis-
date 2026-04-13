@@ -1,2 +1,2 @@
-# coffe shop EDA
+# Coffe Shop EDA
 Exploring my data
